@@ -23,3 +23,4 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+As someone that has a lot of experience webscraping (especially this semester), this assignment felt very easy. I will say however, that I am not very familiar with chromium or playwright compared to selinium so it was nice to see other ways of getting data with other packages. I think one of the most useful things from this topic was the gencode or whatever the terminal code was called to allow us to browse the web and have it automate our code. That tool will be used in the future by me and most likely for the final project. If there was any struggle I had with this code I would say it would be with the query selector since if I remember correctly, in selinium had a different way of calling the element where it was more indepth, but chromium was a lot simpliar but still managed to get the same data.
